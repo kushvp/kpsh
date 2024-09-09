@@ -1,5 +1,5 @@
 BINARY=kpsh
-DIST=dist
+DIST=kp_shell
 CODEDIRS=. lib
 INCDIRS=. ./include/
 
